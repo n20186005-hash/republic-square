@@ -194,19 +194,5 @@
     "title": "关于共和国广场",
     "text": "共和国广场是贝尔格莱德市的核心公共空间，由贝尔格莱德市政府管理维护。广场周边的国家博物馆和国家剧院是塞尔维亚最重要的文化机构。作为城市的历史中心和交通枢纽，共和国广场见证了塞尔维亚近现代史上的众多重要时刻，是了解贝尔格莱德城市文化的最佳起点。"
   },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
-      {"name": "米哈伊洛大公步行街", "url": "https://www.booking.com"},
-      {"name": "卡莱梅格丹堡垒", "url": "https://www.booking.com"},
-      {"name": "斯卡达利亚波西米亚老街", "url": "https://www.booking.com"}
-    ],
-    "tours": [
-      {"name": "贝尔格莱德老城徒步游", "url": "https://www.booking.com"},
-      {"name": "多瑙河游船体验", "url": "https://www.booking.com"},
-      {"name": "塞尔维亚美食之旅", "url": "https://www.booking.com"}
-    ]
   }
 }
