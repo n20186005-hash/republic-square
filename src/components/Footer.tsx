@@ -30,6 +30,15 @@ export default function Footer() {
               <a href="http://www.narodnimuzej.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.england')}
               </a>
+              <a href="https://www.srbija.gov.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.serbiaGov')}
+              </a>
+              <a href="https://vojvodina.travel/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.vojvodina')}
+              </a>
+              <a href="https://www.nasledje.gov.rs/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+                {t('officialLinks.heritage')}
+              </a>
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
